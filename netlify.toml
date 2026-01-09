@@ -1,4 +1,4 @@
 [build]
-  publish = "khalwale-&-co-advocates-ip-division/dist"
+  publish = "dist"
   command = "npm run build"
   base = "khalwale-&-co-advocates-ip-division"
